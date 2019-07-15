@@ -1,4 +1,4 @@
-# [team coding dashboard](https://github.com/maciejjankowski/cc-dashboard)
+# [team coding dashboard](https://github.com/maciejjankowski/team-coding-dashboard)
 ### Difficulty & Time involvement
 4/5, 2 weeks. 2 APIs to use, RaspberryPI configuration. 
 ### Description
