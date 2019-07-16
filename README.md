@@ -9,6 +9,7 @@ It should contain:
 * list of workshops happening within next 2 weeks
 * list of taken and free PA and consultations slots based on calendar
 * successes: Passed PA, GO, Jobs
+* number of students who got a job this month, quarter and total
 
 ### User stories
 * I want be able to see daily/weekly progress and volume of commits in all teams (overview)
